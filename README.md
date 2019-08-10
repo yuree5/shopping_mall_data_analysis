@@ -51,21 +51,21 @@ The fact that the bounce rate got lower in value 1.0 implies a behavior of onlin
 
 ### Special Day bounce rate relationship with new and returning users
 
-![](/img/rkddlwns_tot)
+![](/img/rkddlwns_tot.PNG)
 
 #### New users' maximum
-![](/img/rkddlwns_nwmx)
+![](/img/rkddlwns_nwmx.PNG)
 
 Shows that new visitors tend to have more interest on the value 0.2, 0.4, and lose interest quickly on the first day (value 0)
 #### Returning users' maximum
-![](/img/rkddlsnws_rvmx)
+![](/img/rkddlsnws_rvmx.PNG)
 
 Returning users generally lose interest quickly on special days
 #### New users' average
-![](/img/rkddlwns_nwavg)
+![](/img/rkddlwns_nwavg.PNG)
 Actually, it was only some that lost interest quickly on the first day- most were interested about the online shopping mall
 #### Returning users' average
-![](/img/rkddlwns_rvavg)
+![](/img/rkddlwns_rvavg.PNG)
 
 Huge difference between maximum and average value shows that only some of the returning visitors left the site quickly without interest, but the majority were interested.
 #### So...
