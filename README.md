@@ -45,7 +45,7 @@ Since lower bounce rates are seen from new visitors, it can be observed that the
 The graph shows the bounce rate fluctuating on months. With the exception of two months without data, it can be noted that July and February has the lowest bounce rates, despite the hypothesis that winter and summer months will have higher bounce rates. This could probably be because more items are bought in preparation of the upcoming, or ongoing harsh weather.
 
 #### Special Day
-![](/img/BounceRateFactor_SpecialDay.PNG)
+![](/img/BounceRateFactor_specialDay.PNG)
 The graph does show the bounce rate getting lower when approximating the special day, but it also shows the bounce rate increasing until value 0.8. 
 The fact that the bounce rate got lower in value 1.0 implies a behavior of online shoppers that it is likely for them to delay the purchase until the final day.
 
@@ -65,7 +65,7 @@ Returning users generally lose interest quickly on special days
 ![](/img/rkddlwns_nwavg.PNG)
 Actually, it was only some that lost interest quickly on the first day- most were interested about the online shopping mall
 #### Returning users' average
-![](/img/rkddlwns_rvavg.PNG)
+![](/img/rkddlwns.rvavg.PNG)
 
 Huge difference between maximum and average value shows that only some of the returning visitors left the site quickly without interest, but the majority were interested.
 #### So...
