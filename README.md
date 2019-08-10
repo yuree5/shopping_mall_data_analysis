@@ -7,6 +7,7 @@
 ## Data description
 
 The data,formed of 12330 rows and 18 columns was reduced into: Bounce Rates, Special day, Month, Browser, Visitor types.
+(from kaggle : https://www.kaggle.com/roshansharma/online-shoppers-intention )
 
 ## Before the graphs
 
@@ -36,6 +37,7 @@ In the graph, it can be clearly seen that browsers 1+4 have the most bounce rate
 ![](/img/BounceRateFactor_visitorType.PNG)
 
 It can be seen quite certain that there is a major difference between the visitor types and their bounce rate. Returning visitors show higher bounce rates, hence proving the hypothesis about visitor types true. It also shows that visitor type may be a factor that differ bounce rates. 
+Since lower bounce rates are seen from new visitors, it can be observed that the site sucessfully manages to catch the eye of a new customer, but fails to interest a returning visitor, which implies that the site has numerous recurrsive material that bores the eye.
 
 #### Month
 ![](/img/BounceRateFactor_Month.PNG)
